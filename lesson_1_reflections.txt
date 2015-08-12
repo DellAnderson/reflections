@@ -1,0 +1,18 @@
+(missing first Lesson 01 reflections)
+
+I can use git log and git diff to compare
+versions of files by copying and pasting
+the version numbers from log into the
+diff command.   This allows easy comparisons
+which are colored if I have configured git correctly.
+
+How might using version control make you more confident
+to make changes that could break something?
+Knowing that I can always go back (or forward if I note
+down the ID of the HEAD will make me less afraid to
+experiement)
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I want to use it for Android code management as well as HTML/CSS web development.
+I would also like to use for graphics if it did not require so much storage space
+and if I did not already have a klunky system for working with image files.
