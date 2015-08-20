@@ -16,5 +16,5 @@ in a commit unit so commits can be more
 logically organized.
 
 How can you use the staging area to make sure you have one commit per logical change?
-I can do a git diff --staged  to see what changes
-were made to the file.
+I can do a git diff --staged  to make sure only one logical
+change was made.
