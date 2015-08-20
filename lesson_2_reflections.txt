@@ -14,3 +14,7 @@ working directory and repository.  It offers
 the ability to select which files to include
 in a commit unit so commits can be more 
 logically organized.
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can do a git diff --staged  to see what changes
+were made to the file.
