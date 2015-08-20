@@ -18,3 +18,14 @@ logically organized.
 How can you use the staging area to make sure you have one commit per logical change?
 I can do a git diff --staged  to make sure only one logical
 change was made.
+
+What are some situations when branches would be 
+helpful in keeping your history organized? 
+How would branches help?
+Branches are helpful when:
+1) Making cosmetic or other peripheral changes
+that don't affect core functionality
+e.g. Customizing code for a non-universal goal
+2) Experimenting with more significant multiple
+step changes to core functionality without
+causing confusion with 'clean' working code
