@@ -29,3 +29,7 @@ e.g. Customizing code for a non-universal goal
 2) Experimenting with more significant multiple
 step changes to core functionality without
 causing confusion with 'clean' working code
+
+How do the diagrams help you visualize the branch structure?
+Diagrams make it easy to see which commits are reachable
+and recognize potential 'detached head' situations
