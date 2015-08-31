@@ -33,3 +33,16 @@ causing confusion with 'clean' working code
 How do the diagrams help you visualize the branch structure?
 Diagrams make it easy to see which commits are reachable
 and recognize potential 'detached head' situations
+
+What is the result of merging two branches together? 
+Master branch moves to the currently checked out branch
+and adds/removes changes made by it and the other named
+branch by comparing to the last common commit before
+branching.  NOTE:  Only one branch argument needed because
+currently checked out branch is ALWAYS included
+All commits are interleaved based on timestamp
+
+Why do we represent it in the diagram the way we do?
+To show that both component branches are important, we did not
+simply move the 'Master' label to the branch but 
+merged them.
