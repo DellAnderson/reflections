@@ -15,3 +15,6 @@ Branches: different working versions on same repository (usually local)
 Clones:  Copies of entire repository (either both local or one local & one remote)
 Forks:  Special type of repository clones entirely on GitHub - allows you to create a copy of someone else's repository and push changes to the copy even if you do not have access to the original repo.  Also has links back to original repo so it is easier to give credit and later offer changes to original.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Ability to review and reconcile merge conflicts at leisure offline by fetching remote repo before go offline
